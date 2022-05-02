@@ -1,0 +1,22 @@
+/* add your CSS here */
+.title {text-align:center;}
+.card {
+  max-width:300px;
+  margin:5px auto;
+  padding:5px;
+  border:5px solid darkgreen;
+  background-color:black;
+  color:darkgreen;
+  box-shadow: 5px 5px 5px 5px tan;
+  border-radius:25px;
+  display:flex;
+}
+.info {border: 3px ridge tan;
+border-radius: 15px;
+padding:2px;
+margin:2px auto;
+text-align:center;}
+.panda {width:300px;}
+.keyfacts {font-style:italic;}
+span {font-weight:bold;}
+ul li {list-style-type:none;}
